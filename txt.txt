@@ -7,9 +7,6 @@ el manuel me la mama
 y culona
 en la hora de clases
 es de nutricion
-<<<<<<< HEAD
 hola mundo nuevo
-=======
 
 el fernando no le habla por maricon
->>>>>>> 23819e9bce99d391d61b37b471b9f86304dea256
