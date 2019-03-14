@@ -3,4 +3,8 @@ Hola mundo
 MI amor la doreen
 ella la mama
 ella es muy linda
+<<<<<<< HEAD
 el manuel me la mama
+=======
+y culona
+>>>>>>> 37768c6b95327575afb7ebef53e8dc0e9cfdc437
